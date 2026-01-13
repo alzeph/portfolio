@@ -1,0 +1,144 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "hervecedricyouan@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hervecedricyouan@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+225 07 775 379 54",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+2250777537954"
+      },
+      {
+        "type": "website",
+        "label": "www.cedricherveyouan.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.cedricherveyouan.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "www.linkedin.com/in/hervecedricyouan"
+      },
+      {
+        "title": "Github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/alzeph"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Master Développement d'applications Python – 2024",
+        "description": "Formation orientée projets pratiques en Python, Django, React et automatisation, avec applications concrètes en production."
+      },
+      {
+        "title": "Licence Informatique et Sciences du Numérique – 2023",
+        "description": "Formation axée sur la cybersécurité et les réseaux, incluant administration système, sécurité des données et protocoles réseau."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Django",
+        "icon": "/images/home/education-skill/django-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/home/education-skill/nodejs-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Express.js",
+        "icon": "/images/home/education-skill/express-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "/images/home/education-skill/postgresql-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/mysql-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "MongoDB",
+        "icon": "/images/home/education-skill/mongodb-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Redis",
+        "icon": "/images/home/education-skill/redis-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Docker",
+        "icon": "/images/home/education-skill/docker-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Git",
+        "icon": "/images/home/education-skill/git-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "GitHub",
+        "icon": "/images/home/education-skill/github-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/images/home/education-skill/typescript-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Next.js",
+        "icon": "/images/home/education-skill/nextjs-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Vite.js",
+        "icon": "/images/home/education-skill/vitejs-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Linkedin",
+        "href": "https://www.linkedin.com/in/hervecedricyouan"
+      },
+      {
+        "title": "Github",
+        "href": "https://github.com/alzeph"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hervecedricyouan@gmail.com",
+        "link": "mailto:hervecedricyouan@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+225 07 775 379 54",
+        "link": "tel:+2250777537954"
+      }
+    ]
+  }
+}

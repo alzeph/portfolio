@@ -1,0 +1,28 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/aib.png",
+      "title": "SITE VITRINE",
+      "client": "AIB",
+      "href": "https://www.aib-ci.net/"
+    },
+    {
+      "image": "/images/work/cafo-services.png",
+      "title": "App e-commerce",
+      "client": "CAFO SERVICES",
+      "href": "https://www.cafoservices.com/"
+    },
+    {
+      "image": "/images/work/ecouture.png",
+      "title": "Saas",
+      "client": "AIB",
+      "href": "https://ecouture.aib-ci.cloud/"
+    },
+    {
+      "image": "/images/work/idreach.png",
+      "title": "SITE VITRINE",
+      "client": "IDREACH",
+      "href": "https://id-reach.com/"
+    }
+  ]
+}
