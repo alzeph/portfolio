@@ -3,6 +3,7 @@ import { Bricolage_Grotesque } from "next/font/google";
 import "./globals.css";
 import Header from "./components/layout/header";
 import Footer from "./components/layout/footer";
+import Head from "next/head";
 
 const bricolageGrotesque = Bricolage_Grotesque({
   variable: "--font-geist-sans",
@@ -21,10 +22,37 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <Head>
+        <title>Cédric Hervé Youan | Portfolio Développeur Full-Stack</title>
+        <meta
+          name="description"
+          content="Cédric Hervé Youan – Développeur full-stack expert en Python, Django, React et React Native. Portfolio présentant mes projets web et mobiles, freelance et entreprise."
+        />
+        <meta
+          name="keywords"
+          content="Cédric Hervé Youan, Portfolio Cédric Hervé, développeur full-stack, Python, Django, React, React Native, freelance, projets web, projets mobiles"
+        />
+        <link rel="canonical" href="https://cedricherve.vercel.app/" />
+        <meta property="og:title" content="Cédric Hervé Youan | Portfolio Développeur Full-Stack" />
+        <meta
+          property="og:description"
+          content="Découvrez le portfolio de Cédric Hervé Youan, développeur full-stack expert en Python, Django, React et React Native. Projets freelance et entreprise."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://cedricherve.vercel.app/" />
+        <meta property="og:image" content="https://cedricherve.vercel.app/preview.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Cédric Hervé Youan | Portfolio Développeur Full-Stack" />
+        <meta
+          name="twitter:description"
+          content="Découvrez le portfolio de Cédric Hervé Youan, développeur full-stack expert en Python, Django, React et React Native."
+        />
+        <meta name="twitter:image" content="https://cedricherve.vercel.app/preview.png" />
+      </Head>
       <body className={bricolageGrotesque.className}>
         <Header />
         {children}
-        <Footer/>
+        <Footer />
       </body>
     </html>
   );
