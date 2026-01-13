@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="fr" suppressHydrationWarning>
       <Head>
         <title>Cédric Hervé Youan | Portfolio Développeur Full-Stack</title>
         <meta
