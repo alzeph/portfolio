@@ -1,6 +1,18 @@
 {
   "workData": [
     {
+      "image": "/images/work/package_python.png",
+      "title": "Django Auto test All",
+      "client": "CEDRIC HERVE YOUAN",
+      "href": "https://www.cedricherveyouan.com/"
+    },
+    {
+      "image": "/images/work/package_python.png",
+      "title": "Django Factory All",
+      "client": "CEDRIC HERVE YOUAN",
+      "href": "https://www.cedricherveyouan.com/"
+    },
+    {
       "image": "/images/work/aib.png",
       "title": "SITE VITRINE",
       "client": "AIB",
@@ -26,3 +38,4 @@
     }
   ]
 }
+
